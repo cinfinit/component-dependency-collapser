@@ -1,0 +1,47 @@
+{
+  "name": "component-dependency-collapser",
+  "version": "1.0.0",
+  "bin": {
+  "comp-collapse": "./bin/cli.js"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "ts-node src/cli.ts"
+  },
+  "keywords": [
+  "cli",
+  "typescript",
+  "dependency",
+  "import-analyzer",
+  "code-visualization",
+  "component-inspector",
+  "frontend",
+  "analyzer",
+  "module-tree",
+  "import-tree",
+  "size-analysis",
+  "trace-imports",
+  "dependency-graph",
+  "tsconfig-paths",
+  "project-analysis",
+  "source-map",
+  "component-dependency",
+  "devtool",
+  "static-analysis"
+],
+  "author": "cinfinite",
+  "license": "ISC",
+  "description": "Component Dependency Collapser is a CLI tool that helps you analyze, visualize, and trace the dependency structure of your frontend components",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "fast-glob": "^3.3.3",
+    "ts-morph": "^26.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
