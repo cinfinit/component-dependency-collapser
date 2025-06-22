@@ -10,7 +10,7 @@ const program = new Command();
 program
   .name('component-dependency-collapser')
   .description('Collapse and analyze dependencies of frontend components')
-  .version('1.0.2');
+  .version('1.0.3');
 
 program
   .argument('<Dir>', 'directory')
