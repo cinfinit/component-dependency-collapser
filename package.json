@@ -41,6 +41,7 @@
     "chalk": "^5.4.1",
     "commander": "^14.0.0",
     "fast-glob": "^3.3.3",
+    "typescript": "^5.8.3",
     "ts-morph": "^26.0.0"
   },
   "devDependencies": {
