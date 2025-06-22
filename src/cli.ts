@@ -8,7 +8,7 @@ import path from 'path';
 const program = new Command();
 
 program
-  .name('comp-collapse')
+  .name('component-dependency-collapser')
   .description('Collapse and analyze dependencies of frontend components')
   .version('1.0.0');
 
