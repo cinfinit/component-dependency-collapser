@@ -1,6 +1,6 @@
 {
   "name": "component-dependency-collapser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bin": {
     "comp-collapse": "./bin/cli.js"
   },
