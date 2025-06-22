@@ -30,9 +30,13 @@
     "devtool",
     "static-analysis"
   ],
-  "author": "cinfinite",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cinfinit/component-dependency-collapser.git"
+  },
+  "author": "cinfinit",
   "license": "ISC",
-  "description": "Component Dependency Collapser is a CLI tool that helps you analyze, visualize, and trace the dependency structure of your frontend components",
+  "description": "📦 Component Dependency Collapser is a CLI tool that helps you analyze, visualize, and trace the dependency structure of your frontend components",
   "dependencies": {
     "chalk": "^5.4.1",
     "commander": "^14.0.0",

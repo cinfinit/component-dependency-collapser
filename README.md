@@ -1,4 +1,4 @@
-# 📦 Component Dependency Collapser
+# 📦 Component Dependency Collapser [![NPM version](https://img.shields.io/npm/v/component-dependency-collapser.svg?style=flat)](https://www.npmjs.com/package/component-dependency-collapser) [![NPM downloads](https://img.shields.io/npm/dm/component-dependency-collapser.svg?style=flat)](https://npmjs.org/package/component-dependency-collapser)
 
 > 🕵️ Unravel your frontend dependencies like a pro detective.  
 > 🧠 Get insights. 🔍 Trace dependencies. 🌲 Visualize trees.  
