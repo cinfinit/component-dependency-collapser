@@ -11,7 +11,7 @@
 **Component Dependency Collapser** is your personal CLI x-ray tool for frontend projects. It's here to **analyze**, **trace**, and **visualize** how your code talks to itself.
 
 Think of it as:
-- 🕶️ Ray-Bans for your code structure.
+- 🕶️ X-Ray vision for your code structure.
 - 🧬 DNA testing for your imports.
 - 🧹 A Roomba for your dependency mess.
 
